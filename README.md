@@ -3,9 +3,9 @@
 # Project Description: 
 Introduced a novel approach for corn plant disease detection using Convolutional Neural Networks (CNNs). With the aim of enhancing agricultural practices through efficient disease identification, we focused on four major classes: healthy, common rust, blight, and gray leaf spot. Achieved 88% accuracy using a CNN-based model trained on a dataset of diseased and healthy corn plant images. Comprehensive evaluation metrics were employed to assess the model's performance. The goal is to teach computers to tell the difference between healthy leaves and ones that are unhealthy.
 
-# Back-end:
+Back-end:
 
-# Front-end: Directory Structure
+Front-end: Directory Structure
 CapstoneGroup4/
 │
 ├── static/
