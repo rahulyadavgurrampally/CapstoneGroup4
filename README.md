@@ -7,6 +7,7 @@ Introduced a novel approach for corn plant disease detection using Convolutional
 Capstone_project_final.ipynb file contains final code for this project. 
 
 # Front-end: Directory Structure
+```
 CapstoneGroup4/
 │
 ├── static/
@@ -21,7 +22,7 @@ CapstoneGroup4/
 ├── model.h5
 │
 ├── app.py
-
+```
 # static/: 
 This directory contains static files such as CSS and JavaScript files.
 # css/: 
